@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2085. Count Common Words With One Occurrence/1.0.0": {
+        "runtime": {
+          "2085. Count Common Words With One Occurrence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2085. Count Common Words With One Occurrence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

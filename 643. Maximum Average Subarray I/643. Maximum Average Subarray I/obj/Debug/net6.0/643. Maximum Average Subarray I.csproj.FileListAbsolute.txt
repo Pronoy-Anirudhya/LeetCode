@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\bin\Debug\net6.0\643. Maximum Average Subarray I.exe
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\bin\Debug\net6.0\643. Maximum Average Subarray I.deps.json
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\bin\Debug\net6.0\643. Maximum Average Subarray I.runtimeconfig.json
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\bin\Debug\net6.0\643. Maximum Average Subarray I.dll
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\bin\Debug\net6.0\643. Maximum Average Subarray I.pdb
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.AssemblyInfo.cs
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.dll
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\refint\643. Maximum Average Subarray I.dll
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.pdb
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\643. Maximum Average Subarray I.genruntimeconfig.cache
+D:\Codes\LeetCode\643. Maximum Average Subarray I\643. Maximum Average Subarray I\obj\Debug\net6.0\ref\643. Maximum Average Subarray I.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "290. Word Pattern", "290. Word Pattern\290. Word Pattern.csproj", "{389663E4-25E7-4D79-B1DD-40887DEFD81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389663E4-25E7-4D79-B1DD-40887DEFD81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389663E4-25E7-4D79-B1DD-40887DEFD81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389663E4-25E7-4D79-B1DD-40887DEFD81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389663E4-25E7-4D79-B1DD-40887DEFD81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB53BB98-3262-49D9-8A37-5972B7D0203B}
+	EndGlobalSection
+EndGlobal

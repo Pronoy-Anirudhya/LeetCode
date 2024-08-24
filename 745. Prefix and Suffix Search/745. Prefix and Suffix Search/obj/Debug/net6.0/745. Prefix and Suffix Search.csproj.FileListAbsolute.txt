@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\bin\Debug\net6.0\745. Prefix and Suffix Search.exe
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\bin\Debug\net6.0\745. Prefix and Suffix Search.deps.json
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\bin\Debug\net6.0\745. Prefix and Suffix Search.runtimeconfig.json
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\bin\Debug\net6.0\745. Prefix and Suffix Search.dll
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\bin\Debug\net6.0\745. Prefix and Suffix Search.pdb
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.AssemblyInfo.cs
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.dll
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\refint\745. Prefix and Suffix Search.dll
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.pdb
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\745. Prefix and Suffix Search.genruntimeconfig.cache
+D:\Codes\LeetCode\745. Prefix and Suffix Search\745. Prefix and Suffix Search\obj\Debug\net6.0\ref\745. Prefix and Suffix Search.dll

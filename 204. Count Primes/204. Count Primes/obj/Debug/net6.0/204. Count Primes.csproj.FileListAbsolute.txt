@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\bin\Debug\net6.0\204. Count Primes.exe
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\bin\Debug\net6.0\204. Count Primes.deps.json
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\bin\Debug\net6.0\204. Count Primes.runtimeconfig.json
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\bin\Debug\net6.0\204. Count Primes.dll
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\bin\Debug\net6.0\204. Count Primes.pdb
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.AssemblyInfo.cs
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.dll
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\refint\204. Count Primes.dll
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.pdb
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\204. Count Primes.genruntimeconfig.cache
+D:\Codes\LeetCode\204. Count Primes\204. Count Primes\obj\Debug\net6.0\ref\204. Count Primes.dll

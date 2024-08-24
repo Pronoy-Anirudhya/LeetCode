@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "819. Most Common Word/1.0.0": {
+        "runtime": {
+          "819. Most Common Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "819. Most Common Word/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

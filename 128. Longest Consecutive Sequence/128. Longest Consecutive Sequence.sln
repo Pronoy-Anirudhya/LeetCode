@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128. Longest Consecutive Sequence", "128. Longest Consecutive Sequence\128. Longest Consecutive Sequence.csproj", "{EF283DA9-8657-4980-8377-1A700C0864CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF283DA9-8657-4980-8377-1A700C0864CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF283DA9-8657-4980-8377-1A700C0864CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF283DA9-8657-4980-8377-1A700C0864CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF283DA9-8657-4980-8377-1A700C0864CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A7BA36-DBD4-4462-9D84-29050231D5B9}
+	EndGlobalSection
+EndGlobal

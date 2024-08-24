@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.exe
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.deps.json
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.runtimeconfig.json
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.dll
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.pdb
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.AssemblyInfo.cs
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.dll
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\refint\283. Move Zeroes.dll
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.pdb
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.genruntimeconfig.cache
+D:\Codes\LeetCode\283. Move Zeroes\283. Move Zeroes\obj\Debug\net6.0\ref\283. Move Zeroes.dll

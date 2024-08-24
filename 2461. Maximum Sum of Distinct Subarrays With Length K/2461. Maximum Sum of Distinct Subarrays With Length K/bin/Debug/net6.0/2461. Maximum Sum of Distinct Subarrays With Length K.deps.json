@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2461. Maximum Sum of Distinct Subarrays With Length K/1.0.0": {
+        "runtime": {
+          "2461. Maximum Sum of Distinct Subarrays With Length K.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2461. Maximum Sum of Distinct Subarrays With Length K/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

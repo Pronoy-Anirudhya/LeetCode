@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\bin\Debug\net6.0\75. Sort Colors.exe
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\bin\Debug\net6.0\75. Sort Colors.deps.json
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\bin\Debug\net6.0\75. Sort Colors.runtimeconfig.json
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\bin\Debug\net6.0\75. Sort Colors.dll
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\bin\Debug\net6.0\75. Sort Colors.pdb
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.AssemblyInfo.cs
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.dll
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\refint\75. Sort Colors.dll
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.pdb
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\75. Sort Colors.genruntimeconfig.cache
+D:\Codes\LeetCode\75. Sort Colors\75. Sort Colors\obj\Debug\net6.0\ref\75. Sort Colors.dll

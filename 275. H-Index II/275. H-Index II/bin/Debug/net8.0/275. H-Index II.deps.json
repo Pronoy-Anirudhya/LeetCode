@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "275. H-Index II/1.0.0": {
+        "runtime": {
+          "275. H-Index II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "275. H-Index II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

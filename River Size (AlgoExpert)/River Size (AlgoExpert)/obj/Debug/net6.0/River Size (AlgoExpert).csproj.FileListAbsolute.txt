@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\bin\Debug\net6.0\River Size (AlgoExpert).exe
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\bin\Debug\net6.0\River Size (AlgoExpert).deps.json
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\bin\Debug\net6.0\River Size (AlgoExpert).runtimeconfig.json
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\bin\Debug\net6.0\River Size (AlgoExpert).dll
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\bin\Debug\net6.0\River Size (AlgoExpert).pdb
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).csproj.AssemblyReference.cache
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).AssemblyInfoInputs.cache
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).AssemblyInfo.cs
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).dll
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\refint\River Size (AlgoExpert).dll
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).pdb
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\River Size (AlgoExpert).genruntimeconfig.cache
+D:\Codes\LeetCode\River Size (AlgoExpert)\River Size (AlgoExpert)\obj\Debug\net6.0\ref\River Size (AlgoExpert).dll

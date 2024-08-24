@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\bin\Debug\net6.0\242. Valid Anagram.exe
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\bin\Debug\net6.0\242. Valid Anagram.deps.json
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\bin\Debug\net6.0\242. Valid Anagram.runtimeconfig.json
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\bin\Debug\net6.0\242. Valid Anagram.dll
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\bin\Debug\net6.0\242. Valid Anagram.pdb
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.AssemblyInfo.cs
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.dll
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\refint\242. Valid Anagram.dll
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.pdb
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\242. Valid Anagram.genruntimeconfig.cache
+D:\Codes\LeetCode\242. Valid Anagram\242. Valid Anagram\obj\Debug\net6.0\ref\242. Valid Anagram.dll

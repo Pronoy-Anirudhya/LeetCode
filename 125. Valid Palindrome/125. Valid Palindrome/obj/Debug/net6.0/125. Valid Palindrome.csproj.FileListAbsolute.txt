@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\bin\Debug\net6.0\125. Valid Palindrome.exe
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\bin\Debug\net6.0\125. Valid Palindrome.deps.json
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\bin\Debug\net6.0\125. Valid Palindrome.runtimeconfig.json
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\bin\Debug\net6.0\125. Valid Palindrome.dll
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\bin\Debug\net6.0\125. Valid Palindrome.pdb
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.AssemblyInfo.cs
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.dll
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\refint\125. Valid Palindrome.dll
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.pdb
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\125. Valid Palindrome.genruntimeconfig.cache
+D:\Codes\LeetCode\125. Valid Palindrome\125. Valid Palindrome\obj\Debug\net6.0\ref\125. Valid Palindrome.dll

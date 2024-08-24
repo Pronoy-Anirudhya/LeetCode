@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\bin\Debug\net6.0\2. Add Two Numbers.exe
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\bin\Debug\net6.0\2. Add Two Numbers.deps.json
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\bin\Debug\net6.0\2. Add Two Numbers.runtimeconfig.json
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\bin\Debug\net6.0\2. Add Two Numbers.dll
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\bin\Debug\net6.0\2. Add Two Numbers.pdb
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.AssemblyInfo.cs
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.dll
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\refint\2. Add Two Numbers.dll
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.pdb
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\2. Add Two Numbers.genruntimeconfig.cache
+D:\Codes\LeetCode\2. Add Two Numbers\2. Add Two Numbers\obj\Debug\net6.0\ref\2. Add Two Numbers.dll

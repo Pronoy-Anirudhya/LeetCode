@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\bin\Debug\net6.0\1816. Truncate Sentence.exe
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\bin\Debug\net6.0\1816. Truncate Sentence.deps.json
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\bin\Debug\net6.0\1816. Truncate Sentence.runtimeconfig.json
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\bin\Debug\net6.0\1816. Truncate Sentence.dll
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\bin\Debug\net6.0\1816. Truncate Sentence.pdb
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.AssemblyInfo.cs
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.dll
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\refint\1816. Truncate Sentence.dll
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.pdb
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\1816. Truncate Sentence.genruntimeconfig.cache
+D:\Codes\LeetCode\1816. Truncate Sentence\1816. Truncate Sentence\obj\Debug\net6.0\ref\1816. Truncate Sentence.dll

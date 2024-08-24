@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2461. Maximum Sum of Distinct Subarrays With Length K", "2461. Maximum Sum of Distinct Subarrays With Length K\2461. Maximum Sum of Distinct Subarrays With Length K.csproj", "{0C915C9A-A4A6-4372-8FD6-126513DD70EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C915C9A-A4A6-4372-8FD6-126513DD70EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C915C9A-A4A6-4372-8FD6-126513DD70EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C915C9A-A4A6-4372-8FD6-126513DD70EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C915C9A-A4A6-4372-8FD6-126513DD70EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306567EA-9462-466F-80C4-8C303B733FA3}
+	EndGlobalSection
+EndGlobal

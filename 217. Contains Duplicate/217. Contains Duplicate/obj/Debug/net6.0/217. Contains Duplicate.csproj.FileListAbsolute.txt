@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\bin\Debug\net6.0\217. Contains Duplicate.exe
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\bin\Debug\net6.0\217. Contains Duplicate.deps.json
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\bin\Debug\net6.0\217. Contains Duplicate.runtimeconfig.json
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\bin\Debug\net6.0\217. Contains Duplicate.dll
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\bin\Debug\net6.0\217. Contains Duplicate.pdb
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.AssemblyInfo.cs
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.dll
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\refint\217. Contains Duplicate.dll
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.pdb
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\217. Contains Duplicate.genruntimeconfig.cache
+D:\Codes\LeetCode\217. Contains Duplicate\217. Contains Duplicate\obj\Debug\net6.0\ref\217. Contains Duplicate.dll

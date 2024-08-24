@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\bin\Debug\net6.0\2089. Find Target Indices After Sorting Array.exe
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\bin\Debug\net6.0\2089. Find Target Indices After Sorting Array.deps.json
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\bin\Debug\net6.0\2089. Find Target Indices After Sorting Array.runtimeconfig.json
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\bin\Debug\net6.0\2089. Find Target Indices After Sorting Array.dll
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\bin\Debug\net6.0\2089. Find Target Indices After Sorting Array.pdb
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.AssemblyInfo.cs
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.dll
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\refint\2089. Find Target Indices After Sorting Array.dll
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.pdb
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\2089. Find Target Indices After Sorting Array.genruntimeconfig.cache
+D:\Codes\LeetCode\2089. Find Target Indices After Sorting Array\2089. Find Target Indices After Sorting Array\obj\Debug\net6.0\ref\2089. Find Target Indices After Sorting Array.dll

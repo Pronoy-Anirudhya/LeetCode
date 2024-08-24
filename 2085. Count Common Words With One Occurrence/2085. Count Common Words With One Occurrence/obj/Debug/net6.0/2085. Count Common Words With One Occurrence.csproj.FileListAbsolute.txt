@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\bin\Debug\net6.0\2085. Count Common Words With One Occurrence.exe
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\bin\Debug\net6.0\2085. Count Common Words With One Occurrence.deps.json
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\bin\Debug\net6.0\2085. Count Common Words With One Occurrence.runtimeconfig.json
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\bin\Debug\net6.0\2085. Count Common Words With One Occurrence.dll
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\bin\Debug\net6.0\2085. Count Common Words With One Occurrence.pdb
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.AssemblyInfo.cs
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.dll
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\refint\2085. Count Common Words With One Occurrence.dll
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.pdb
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\2085. Count Common Words With One Occurrence.genruntimeconfig.cache
+D:\Codes\LeetCode\2085. Count Common Words With One Occurrence\2085. Count Common Words With One Occurrence\obj\Debug\net6.0\ref\2085. Count Common Words With One Occurrence.dll

@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\bin\Debug\net6.0\819. Most Common Word.exe
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\bin\Debug\net6.0\819. Most Common Word.deps.json
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\bin\Debug\net6.0\819. Most Common Word.runtimeconfig.json
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\bin\Debug\net6.0\819. Most Common Word.dll
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\bin\Debug\net6.0\819. Most Common Word.pdb
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.csproj.AssemblyReference.cache
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.AssemblyInfo.cs
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.dll
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\refint\819. Most Common Word.dll
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.pdb
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\819. Most Common Word.genruntimeconfig.cache
+D:\Codes\LeetCode\819. Most Common Word\819. Most Common Word\obj\Debug\net6.0\ref\819. Most Common Word.dll

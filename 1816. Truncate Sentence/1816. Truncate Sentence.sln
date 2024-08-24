@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1816. Truncate Sentence", "1816. Truncate Sentence\1816. Truncate Sentence.csproj", "{780DF292-0FE1-4AD4-9F85-C91DF3DD496E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780DF292-0FE1-4AD4-9F85-C91DF3DD496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780DF292-0FE1-4AD4-9F85-C91DF3DD496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780DF292-0FE1-4AD4-9F85-C91DF3DD496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780DF292-0FE1-4AD4-9F85-C91DF3DD496E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C520DF04-6642-4E1D-BE78-703FB6EA0EE5}
+	EndGlobalSection
+EndGlobal
