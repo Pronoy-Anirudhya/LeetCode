@@ -1,0 +1,15 @@
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\bin\Debug\net8.0\150. Evaluate Reverse Polish Notation.exe
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\bin\Debug\net8.0\150. Evaluate Reverse Polish Notation.deps.json
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\bin\Debug\net8.0\150. Evaluate Reverse Polish Notation.runtimeconfig.json
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\bin\Debug\net8.0\150. Evaluate Reverse Polish Notation.dll
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\bin\Debug\net8.0\150. Evaluate Reverse Polish Notation.pdb
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.AssemblyInfoInputs.cache
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.AssemblyInfo.cs
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.csproj.CoreCompileInputs.cache
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.sourcelink.json
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.dll
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\refint\150. Evaluate Reverse Polish Notation.dll
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.pdb
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\150. Evaluate Reverse Polish Notation.genruntimeconfig.cache
+D:\Codes\LeetCode\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation\obj\Debug\net8.0\ref\150. Evaluate Reverse Polish Notation.dll
