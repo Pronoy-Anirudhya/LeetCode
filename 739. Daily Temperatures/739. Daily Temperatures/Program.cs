@@ -10,48 +10,37 @@ public class Solution
         if (temperatures.Length <= 1)
             return answer;
 
-        var left = 0;
-        var right = 1;
+        var monoDecreasingStack = new Stack<int>();
 
-        while (left < temperatures.Length && right < temperatures.Length)
+        for (int currentTemperatureIndex = temperatures.Length - 1; currentTemperatureIndex >= 0; currentTemperatureIndex--)
         {
-            if (temperatures[right] > temperatures[left])
+            var currentTemperature = temperatures[currentTemperatureIndex];
+
+            if (monoDecreasingStack.Count == 0)
             {
-                answer[left] = right - left;
-                PrepareNumberOfDaysToGetAWarmerTemperature(temperatures, answer, left, right);
-                left = right;
-                right++;
+                answer[currentTemperatureIndex] = 0;
+                monoDecreasingStack.Push(currentTemperatureIndex);
             }
             else
-                right++;
+            {
+                var currentMaxTemperature = temperatures[monoDecreasingStack.Peek()];
+
+                if (currentTemperature < currentMaxTemperature)
+                {
+                    answer[currentTemperatureIndex] = monoDecreasingStack.Peek() - currentTemperatureIndex;
+                    monoDecreasingStack.Push(currentTemperatureIndex);
+                }
+                else
+                {
+                    while (monoDecreasingStack.Count > 0 && currentTemperature >= temperatures[monoDecreasingStack.Peek()])
+                        monoDecreasingStack.Pop();
+
+                    answer[currentTemperatureIndex] = monoDecreasingStack.Count > 0 ? monoDecreasingStack.Peek() - currentTemperatureIndex : 0;
+                    monoDecreasingStack.Push(currentTemperatureIndex);
+                }
+            }
         }
 
         return answer;
-    }
-
-    private void PrepareNumberOfDaysToGetAWarmerTemperature(int[] temperatures, int[] answers, int leftIndex, int rightIndex)
-    {
-        var globalMaxTemperatureIndex = rightIndex;
-        var currentMaxTemperature = temperatures[--rightIndex];
-        var currentMaxTemperatureIndex = rightIndex;
-        answers[rightIndex] = 1;
-
-        while (--rightIndex > leftIndex)
-        {
-            if (temperatures[rightIndex + 1] > temperatures[rightIndex])
-            {
-                answers[rightIndex] = 1;
-            }
-            else if (currentMaxTemperature > temperatures[rightIndex])
-            {
-                answers[rightIndex] = currentMaxTemperatureIndex - rightIndex;
-                currentMaxTemperature = temperatures[rightIndex];
-                currentMaxTemperatureIndex = rightIndex;
-            }
-            else
-            {
-                answers[rightIndex] = globalMaxTemperatureIndex - rightIndex;
-            }
-        }
     }
 }

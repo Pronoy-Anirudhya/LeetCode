@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\anirudhya.sarker\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Leetcode\\739. Daily Temperatures\\739. Daily Temperatures\\739. Daily Temperatures.csproj",
+      "projectUniqueName": "D:\\Codes\\LeetCode\\739. Daily Temperatures\\739. Daily Temperatures\\739. Daily Temperatures.csproj",
       "projectName": "739. Daily Temperatures",
-      "projectPath": "D:\\Code\\Leetcode\\739. Daily Temperatures\\739. Daily Temperatures\\739. Daily Temperatures.csproj",
-      "packagesPath": "C:\\Users\\anirudhya.sarker\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Leetcode\\739. Daily Temperatures\\739. Daily Temperatures\\obj\\",
+      "projectPath": "D:\\Codes\\LeetCode\\739. Daily Temperatures\\739. Daily Temperatures\\739. Daily Temperatures.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Codes\\LeetCode\\739. Daily Temperatures\\739. Daily Temperatures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anirudhya.sarker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "http://nuget.selise.biz/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +42,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,8 +68,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.selise.biz/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

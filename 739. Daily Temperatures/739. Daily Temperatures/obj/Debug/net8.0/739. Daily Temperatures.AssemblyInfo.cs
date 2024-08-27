@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("739. Daily Temperatures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11e1255485b924a4f95688955b69fe2314c67ad2")]
 [assembly: System.Reflection.AssemblyProductAttribute("739. Daily Temperatures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("739. Daily Temperatures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
