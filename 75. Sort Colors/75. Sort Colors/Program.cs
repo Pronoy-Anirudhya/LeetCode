@@ -5,7 +5,43 @@ public class Solution
 {
     public void SortColors(int[] nums)
     {
-        var redCount = 0; //0
+		/*
+         * Dutch National Flag Algorithm
+         * - Keep all the 0's on the left side of left
+         * - Keep all the 1's on the right side of right
+         * - If middle = 0
+         *      swap(left, middle) -> then left++ & middle
+         * - If middle = 1
+         *      increment middle
+         * - If middle = 1
+         *      swap(right, middle) -> then right--
+         *  - Do it until middle crosees right (middle <= right).
+         */
+
+        var left = 0;
+        var right = nums.Length - 1;
+        var middle = 0;
+
+        while (middle <= right)
+        {
+            if (nums[middle] == 0)
+            {
+                (nums[left], nums[middle]) = (nums[middle], nums[left]);
+                left++;
+                middle++;
+            }
+            else if (nums[middle] == 1)
+            {
+                middle++;
+            }
+            else if (nums[middle] == 2)
+            {
+                (nums[right], nums[middle]) = (nums[middle], nums[right]);
+                right--;
+            }
+        }
+		
+        /*var redCount = 0; //0
         var whiteCount = 0; //1
         var blueCount = 0; //2
 
@@ -36,6 +72,6 @@ public class Solution
                 nums[i] = 2;
                 blueCount--;
             }
-        }
+        }*/
     }
 }

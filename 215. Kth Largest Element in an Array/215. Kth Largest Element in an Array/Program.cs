@@ -26,5 +26,21 @@ public class Solution
         }
 
         return minHeap.Dequeue();
+		
+		//Another way of writing MinHeap
+        /*var minHeap = new PriorityQueue<int, int>(Comparer<int>.Create((a, b) => a - b));
+
+        foreach (int num in nums)
+        {
+            if (minHeap.Count == k)
+            {
+                if (num > minHeap.Peek())
+                    minHeap.DequeueEnqueue(num, num);
+            }
+            else
+                minHeap.Enqueue(num, num);
+        }
+
+        return minHeap.Peek();*/
     }
 }
