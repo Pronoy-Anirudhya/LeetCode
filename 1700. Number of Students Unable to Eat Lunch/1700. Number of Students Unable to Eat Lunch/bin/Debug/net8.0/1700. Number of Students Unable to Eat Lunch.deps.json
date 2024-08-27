@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1700. Number of Students Unable to Eat Lunch/1.0.0": {
+        "runtime": {
+          "1700. Number of Students Unable to Eat Lunch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1700. Number of Students Unable to Eat Lunch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

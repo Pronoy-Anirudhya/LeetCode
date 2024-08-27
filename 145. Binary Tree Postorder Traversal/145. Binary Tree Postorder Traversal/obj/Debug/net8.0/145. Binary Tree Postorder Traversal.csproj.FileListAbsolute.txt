@@ -1,0 +1,14 @@
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\bin\Debug\net8.0\145. Binary Tree Postorder Traversal.exe
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\bin\Debug\net8.0\145. Binary Tree Postorder Traversal.deps.json
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\bin\Debug\net8.0\145. Binary Tree Postorder Traversal.runtimeconfig.json
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\bin\Debug\net8.0\145. Binary Tree Postorder Traversal.dll
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\bin\Debug\net8.0\145. Binary Tree Postorder Traversal.pdb
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\145. Binary Tree Postorder Traversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\145. Binary Tree Postorder Traversal.AssemblyInfoInputs.cache
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\145. Binary Tree Postorder Traversal.AssemblyInfo.cs
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\145. Binary Tree Postorder Traversal.csproj.CoreCompileInputs.cache
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\145. Binary Tree Postorder Traversal.dll
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\refint\145. Binary Tree Postorder Traversal.dll
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\145. Binary Tree Postorder Traversal.pdb
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\145. Binary Tree Postorder Traversal.genruntimeconfig.cache
+D:\Code\Leetcode\145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal\obj\Debug\net8.0\ref\145. Binary Tree Postorder Traversal.dll

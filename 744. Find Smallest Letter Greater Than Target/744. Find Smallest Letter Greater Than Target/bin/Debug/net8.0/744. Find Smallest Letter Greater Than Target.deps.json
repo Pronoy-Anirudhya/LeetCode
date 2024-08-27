@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "744. Find Smallest Letter Greater Than Target/1.0.0": {
+        "runtime": {
+          "744. Find Smallest Letter Greater Than Target.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "744. Find Smallest Letter Greater Than Target/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

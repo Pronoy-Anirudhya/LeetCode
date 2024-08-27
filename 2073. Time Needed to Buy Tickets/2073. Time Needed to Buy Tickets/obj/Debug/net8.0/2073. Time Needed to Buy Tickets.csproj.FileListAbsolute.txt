@@ -1,0 +1,14 @@
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\bin\Debug\net8.0\2073. Time Needed to Buy Tickets.exe
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\bin\Debug\net8.0\2073. Time Needed to Buy Tickets.deps.json
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\bin\Debug\net8.0\2073. Time Needed to Buy Tickets.runtimeconfig.json
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\bin\Debug\net8.0\2073. Time Needed to Buy Tickets.dll
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\bin\Debug\net8.0\2073. Time Needed to Buy Tickets.pdb
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\2073. Time Needed to Buy Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\2073. Time Needed to Buy Tickets.AssemblyInfoInputs.cache
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\2073. Time Needed to Buy Tickets.AssemblyInfo.cs
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\2073. Time Needed to Buy Tickets.csproj.CoreCompileInputs.cache
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\2073. Time Needed to Buy Tickets.dll
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\refint\2073. Time Needed to Buy Tickets.dll
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\2073. Time Needed to Buy Tickets.pdb
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\2073. Time Needed to Buy Tickets.genruntimeconfig.cache
+D:\Code\Leetcode\2073. Time Needed to Buy Tickets\2073. Time Needed to Buy Tickets\obj\Debug\net8.0\ref\2073. Time Needed to Buy Tickets.dll

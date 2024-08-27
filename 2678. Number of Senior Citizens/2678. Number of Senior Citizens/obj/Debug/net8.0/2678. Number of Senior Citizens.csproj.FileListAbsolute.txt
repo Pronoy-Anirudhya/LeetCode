@@ -1,0 +1,14 @@
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\bin\Debug\net8.0\2678. Number of Senior Citizens.exe
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\bin\Debug\net8.0\2678. Number of Senior Citizens.deps.json
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\bin\Debug\net8.0\2678. Number of Senior Citizens.runtimeconfig.json
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\bin\Debug\net8.0\2678. Number of Senior Citizens.dll
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\bin\Debug\net8.0\2678. Number of Senior Citizens.pdb
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\2678. Number of Senior Citizens.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\2678. Number of Senior Citizens.AssemblyInfoInputs.cache
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\2678. Number of Senior Citizens.AssemblyInfo.cs
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\2678. Number of Senior Citizens.csproj.CoreCompileInputs.cache
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\2678. Number of Senior Citizens.dll
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\refint\2678. Number of Senior Citizens.dll
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\2678. Number of Senior Citizens.pdb
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\2678. Number of Senior Citizens.genruntimeconfig.cache
+D:\Code\Leetcode\2678. Number of Senior Citizens\2678. Number of Senior Citizens\obj\Debug\net8.0\ref\2678. Number of Senior Citizens.dll

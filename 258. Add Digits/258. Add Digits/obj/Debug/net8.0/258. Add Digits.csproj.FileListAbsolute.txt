@@ -1,0 +1,14 @@
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\bin\Debug\net8.0\258. Add Digits.exe
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\bin\Debug\net8.0\258. Add Digits.deps.json
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\bin\Debug\net8.0\258. Add Digits.runtimeconfig.json
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\bin\Debug\net8.0\258. Add Digits.dll
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\bin\Debug\net8.0\258. Add Digits.pdb
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\258. Add Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\258. Add Digits.AssemblyInfoInputs.cache
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\258. Add Digits.AssemblyInfo.cs
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\258. Add Digits.csproj.CoreCompileInputs.cache
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\258. Add Digits.dll
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\refint\258. Add Digits.dll
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\258. Add Digits.pdb
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\258. Add Digits.genruntimeconfig.cache
+D:\Code\Leetcode\258. Add Digits\258. Add Digits\obj\Debug\net8.0\ref\258. Add Digits.dll

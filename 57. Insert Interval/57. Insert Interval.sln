@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57. Insert Interval", "57. Insert Interval\57. Insert Interval.csproj", "{8EFAE17A-2C13-439F-ACB2-2D22E4A9B4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFAE17A-2C13-439F-ACB2-2D22E4A9B4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFAE17A-2C13-439F-ACB2-2D22E4A9B4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFAE17A-2C13-439F-ACB2-2D22E4A9B4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFAE17A-2C13-439F-ACB2-2D22E4A9B4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF92833D-138C-4879-B3A5-4C9C5E38E16B}
+	EndGlobalSection
+EndGlobal

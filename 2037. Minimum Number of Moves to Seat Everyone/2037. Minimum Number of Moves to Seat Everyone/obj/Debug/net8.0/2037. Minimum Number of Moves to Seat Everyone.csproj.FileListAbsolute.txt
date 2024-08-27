@@ -1,0 +1,14 @@
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\bin\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.exe
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\bin\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.deps.json
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\bin\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.runtimeconfig.json
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\bin\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.dll
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\bin\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.pdb
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.AssemblyInfoInputs.cache
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.AssemblyInfo.cs
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.csproj.CoreCompileInputs.cache
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.dll
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\refint\2037. Minimum Number of Moves to Seat Everyone.dll
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.pdb
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\2037. Minimum Number of Moves to Seat Everyone.genruntimeconfig.cache
+D:\Code\Leetcode\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone\obj\Debug\net8.0\ref\2037. Minimum Number of Moves to Seat Everyone.dll

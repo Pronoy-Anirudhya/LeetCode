@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2441. Largest Positive Integer That Exists With Its Negative", "2441. Largest Positive Integer That Exists With Its Negative\2441. Largest Positive Integer That Exists With Its Negative.csproj", "{0B7AB7E5-5F4E-4A15-BE48-3BD61C4B1FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7AB7E5-5F4E-4A15-BE48-3BD61C4B1FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7AB7E5-5F4E-4A15-BE48-3BD61C4B1FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7AB7E5-5F4E-4A15-BE48-3BD61C4B1FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7AB7E5-5F4E-4A15-BE48-3BD61C4B1FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0032FEB9-A772-4563-999D-0759DA522DA2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\bin\Debug\net8.0\1492. The kth Factor of n.exe
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\bin\Debug\net8.0\1492. The kth Factor of n.deps.json
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\bin\Debug\net8.0\1492. The kth Factor of n.runtimeconfig.json
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\bin\Debug\net8.0\1492. The kth Factor of n.dll
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\bin\Debug\net8.0\1492. The kth Factor of n.pdb
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\1492. The kth Factor of n.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\1492. The kth Factor of n.AssemblyInfoInputs.cache
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\1492. The kth Factor of n.AssemblyInfo.cs
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\1492. The kth Factor of n.csproj.CoreCompileInputs.cache
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\1492. The kth Factor of n.dll
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\refint\1492. The kth Factor of n.dll
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\1492. The kth Factor of n.pdb
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\1492. The kth Factor of n.genruntimeconfig.cache
+D:\Code\Leetcode\1492. The kth Factor of n\1492. The kth Factor of n\obj\Debug\net8.0\ref\1492. The kth Factor of n.dll

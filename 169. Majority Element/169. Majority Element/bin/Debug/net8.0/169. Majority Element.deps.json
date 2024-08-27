@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "169. Majority Element/1.0.0": {
+        "runtime": {
+          "169. Majority Element.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "169. Majority Element/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

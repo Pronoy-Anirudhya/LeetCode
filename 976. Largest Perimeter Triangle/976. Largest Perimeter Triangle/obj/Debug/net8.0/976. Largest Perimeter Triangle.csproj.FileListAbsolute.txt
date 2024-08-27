@@ -1,0 +1,14 @@
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\bin\Debug\net8.0\976. Largest Perimeter Triangle.exe
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\bin\Debug\net8.0\976. Largest Perimeter Triangle.deps.json
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\bin\Debug\net8.0\976. Largest Perimeter Triangle.runtimeconfig.json
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\bin\Debug\net8.0\976. Largest Perimeter Triangle.dll
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\bin\Debug\net8.0\976. Largest Perimeter Triangle.pdb
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\976. Largest Perimeter Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\976. Largest Perimeter Triangle.AssemblyInfoInputs.cache
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\976. Largest Perimeter Triangle.AssemblyInfo.cs
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\976. Largest Perimeter Triangle.csproj.CoreCompileInputs.cache
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\976. Largest Perimeter Triangle.dll
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\refint\976. Largest Perimeter Triangle.dll
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\976. Largest Perimeter Triangle.pdb
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\976. Largest Perimeter Triangle.genruntimeconfig.cache
+D:\Code\Leetcode\976. Largest Perimeter Triangle\976. Largest Perimeter Triangle\obj\Debug\net8.0\ref\976. Largest Perimeter Triangle.dll

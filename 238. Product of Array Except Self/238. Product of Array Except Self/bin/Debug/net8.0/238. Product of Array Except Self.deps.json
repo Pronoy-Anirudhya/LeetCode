@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "238. Product of Array Except Self/1.0.0": {
+        "runtime": {
+          "238. Product of Array Except Self.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "238. Product of Array Except Self/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
