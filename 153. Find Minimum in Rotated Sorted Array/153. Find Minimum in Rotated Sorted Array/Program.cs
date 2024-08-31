@@ -27,7 +27,7 @@ public class Solution
             var mid = left + ((right - left) / 2);
             minimumValue = Math.Min(nums[mid], minimumValue);
 
-            //Go RIGHT it mid falls in the left part of sorted array, else go LEFT
+            //Go RIGHT if mid falls in the left part of sorted array, else go LEFT
             if (nums[mid] >= nums[left])
                 left = ++mid;
             else
