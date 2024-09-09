@@ -1,44 +1,35 @@
-﻿Console.WriteLine(new Solution().LengthOfLongestSubstring("tmmzuxt"));//vqblqcb = 4 //tmmzuxt = 5 //blqsearxxxbiwqa = 8 aabaab!bb = 3
+﻿Console.WriteLine(new Solution().LengthOfLongestSubstring("pwwkep"));
 Console.ReadLine();
 
 public class Solution
 {
     public int LengthOfLongestSubstring(string s)
     {
-        if (s.Length == 0 || s.Length == 1)
-            return s.Length;
-
+        int longestSubstringLength = 0, currentSubstringLength = 0, left = 0;
         var characterMap = new Dictionary<char, int>();
-        var result = 0;
-        var repeatedSubstringLength = 0;
-        var leftPointer = 0;
-        var rightPointer = 0;
 
-        while (leftPointer < s.Length && rightPointer < s.Length)
+        for (int right = 0; right < s.Length; right++)
         {
-            if (s.Length == 0 || s.Length == 1)
-                return s.Length;
+            var isRepeatingCharacter = characterMap.TryGetValue(s[right], out int repeatingCharacterIndex);
 
-            if (characterMap.ContainsKey(s[rightPointer]))
+            if (!isRepeatingCharacter || repeatingCharacterIndex < left)
             {
-                if (characterMap[s[rightPointer]] >= leftPointer)
-                {
-                    leftPointer = ++characterMap[s[rightPointer]];
-                    result = Math.Max(result, repeatedSubstringLength);
-                    repeatedSubstringLength = rightPointer - leftPointer;
-                }
-                
-                characterMap[s[rightPointer]] = rightPointer;
+                currentSubstringLength++;
+
+                if (!isRepeatingCharacter)
+                    characterMap.Add(s[right], right);
+                else
+                    characterMap[s[right]] = right;
             }
             else
             {
-                characterMap.Add(s[rightPointer], rightPointer);
+                longestSubstringLength = Math.Max(longestSubstringLength, currentSubstringLength);
+                currentSubstringLength = right - repeatingCharacterIndex;
+                characterMap[s[right]] = right;
+                left = repeatingCharacterIndex + 1;
             }
-
-            rightPointer++;
-            repeatedSubstringLength++;
         }
 
-        return Math.Max(result, repeatedSubstringLength);
+        return Math.Max(longestSubstringLength, currentSubstringLength);
     }
 }
