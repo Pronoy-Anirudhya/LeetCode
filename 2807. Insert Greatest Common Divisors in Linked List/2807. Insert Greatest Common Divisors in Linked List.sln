@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2807. Insert Greatest Common Divisors in Linked List", "2807. Insert Greatest Common Divisors in Linked List\2807. Insert Greatest Common Divisors in Linked List.csproj", "{F840EF69-C343-436D-933B-F882212DAF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F840EF69-C343-436D-933B-F882212DAF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F840EF69-C343-436D-933B-F882212DAF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F840EF69-C343-436D-933B-F882212DAF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F840EF69-C343-436D-933B-F882212DAF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30CABD4C-C960-406C-8378-C438E2962059}
+	EndGlobalSection
+EndGlobal
