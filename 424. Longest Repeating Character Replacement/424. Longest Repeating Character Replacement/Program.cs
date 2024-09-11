@@ -11,7 +11,7 @@ public class Solution
         for (int right = 0; right < s.Length; right++)
         {
             characterFrequency[s[right] - 'A']++;
-            /* Despite calculating the max frequency everytime within the array which has O(26) time complexity, we can further optimize it by keeping the historical max frequency like shown below.
+            /* Instead of calculating the max frequency everytime on the array which has O(26) time complexity, we can further optimize it by keeping the historical max frequency like shown below.
              * Here, the trick is, even though we are potentially decreasing the frequency, we are not updating the max frequency since until or unless another max frequency occurs at s[right], it won't affect the historical max length we achieved using the historical max length.
              */
             //maxFrequency = characterFrequency.Max();
