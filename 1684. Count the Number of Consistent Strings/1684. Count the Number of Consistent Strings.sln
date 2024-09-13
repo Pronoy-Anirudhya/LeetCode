@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1684. Count the Number of Consistent Strings", "1684. Count the Number of Consistent Strings\1684. Count the Number of Consistent Strings.csproj", "{25BCA439-A620-45E2-B9A6-0AA124FDD568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25BCA439-A620-45E2-B9A6-0AA124FDD568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BCA439-A620-45E2-B9A6-0AA124FDD568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BCA439-A620-45E2-B9A6-0AA124FDD568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BCA439-A620-45E2-B9A6-0AA124FDD568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C688711-FC4D-4E0D-A710-D230B75046CF}
+	EndGlobalSection
+EndGlobal
