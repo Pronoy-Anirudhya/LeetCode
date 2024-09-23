@@ -1,5 +1,5 @@
-﻿var l5 = new ListNode(5);
-var l4 = new ListNode(4, l5);
+﻿//var l5 = new ListNode(5);
+var l4 = new ListNode(4);
 var l3 = new ListNode(3, l4);
 var l2 = new ListNode(2, l3);
 var head = new ListNode(1, l2);
@@ -11,51 +11,38 @@ public class Solution
 {
     public void ReorderList(ListNode head)
     {
-        int listLength = 0; 
-        ListNode previous = null, current = head, dummy = new();
+        ListNode slow = head, fast = head, previous = null;
 
-        while (current != null)
+        //Slow moves one step while fast moves two steps. By the time fast reaches the end (for even length, fast will be null. But for odd length, fast.next will be null), slow will be at the mid node
+        while (fast != null && fast.next != null)
         {
-            current = current.next;
-            listLength++;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        current = head;
-        int index = 0;
+        //Cutting off the link after the mid node to create two separate lists
+        var nextOfMid = slow.next;
+        slow.next = null;
+        slow = nextOfMid;
 
-        while (current != null)
+        while (slow != null)
         {
-            bool isOverMidwayOfList = listLength % 2 == 0 ? index >= (listLength / 2) : index > (listLength / 2);
-
-            if (isOverMidwayOfList)
-            {
-                var next = current.next;
-                current.next = previous;
-                previous = current;
-                current = next;
-            }
-            else if (listLength % 2 == 0 ? index == (listLength / 2) - 1 : index == (listLength / 2))
-            {
-                var next = current.next;
-                current.next = null;
-                current = next;
-            }
-            else
-                current = current.next;
-
-            index++;
+            var next = slow.next;
+            slow.next = previous;
+            previous = slow;
+            slow = next;
         }
 
-        current = head;
+        slow = head;
 
-        while (current != null && previous != null)
+        while (slow != null && previous != null)
         {
-            var currentNext = current.next;
-            var previousNext = previous.next;
-            previous.next = currentNext;
-            current.next = previous;
-            current = currentNext;
-            previous = previousNext;
+            var nextOfSlow = slow.next;
+            var nextOfPrevious = previous.next;
+            previous.next = nextOfSlow;
+            slow.next = previous;
+            previous = nextOfPrevious;
+            slow = nextOfSlow;
         }
     }
 }
