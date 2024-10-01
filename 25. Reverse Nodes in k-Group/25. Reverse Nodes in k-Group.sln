@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Reverse Nodes in k-Group", "25. Reverse Nodes in k-Group\25. Reverse Nodes in k-Group.csproj", "{FF624ED2-DA72-4435-84DD-EF74AFE45E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF624ED2-DA72-4435-84DD-EF74AFE45E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF624ED2-DA72-4435-84DD-EF74AFE45E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF624ED2-DA72-4435-84DD-EF74AFE45E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF624ED2-DA72-4435-84DD-EF74AFE45E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B115EF-0D69-44D1-85E4-6FAF4D2C007F}
+	EndGlobalSection
+EndGlobal
