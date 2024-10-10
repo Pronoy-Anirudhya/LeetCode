@@ -25,7 +25,27 @@ public class Solution
 {
     public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q)
     {
+        //Recursive Solution
         if (root == null)
+            return root;
+        
+        //These two are base cases. If root is NULL, then we haven't found any of P or Q in this path. So go back and search somewhere else. If the current root is either of P or Q, then we have found a match and return. No need to go down further
+        if (root == p || root == q)
+            return root;
+
+        //Go LEFT & RIGHT from the current root.
+        TreeNode leftLCA = LowestCommonAncestor(root.left, p, q);
+        TreeNode rightLCA = LowestCommonAncestor(root.right, p, q);
+
+        //If both LEFT and RIGHT are not NULL, it means P and Q belong to opposite side of the current root which means root is the LCA.
+        if (leftLCA != null && rightLCA != null)
+            return root;
+
+        //If either LEFT or RIGHT is NULL, then the only one side has P and Q and that side is the LCA
+        return leftLCA != null ? leftLCA : rightLCA;
+
+        //Non-recursive O(n) Solution
+        /*if (root == null)
             return root;
 
         Queue<TreeNode> bfsQueue = [];
@@ -69,7 +89,7 @@ public class Solution
         while (!ancestors.Contains(q))
             q = parentMap[q];
 
-        return q;
+        return q;*/
     }
 }
 
