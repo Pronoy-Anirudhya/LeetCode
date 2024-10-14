@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2530. Maximal Score After Applying K Operations", "2530. Maximal Score After Applying K Operations\2530. Maximal Score After Applying K Operations.csproj", "{40942596-32E4-4994-B222-71B989BD18C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40942596-32E4-4994-B222-71B989BD18C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40942596-32E4-4994-B222-71B989BD18C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40942596-32E4-4994-B222-71B989BD18C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40942596-32E4-4994-B222-71B989BD18C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D43132-A053-4DAB-8A7D-D1948CC7B0D1}
+	EndGlobalSection
+EndGlobal
