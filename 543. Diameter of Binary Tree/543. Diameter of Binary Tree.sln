@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "543. Diameter of Binary Tree", "543. Diameter of Binary Tree\543. Diameter of Binary Tree.csproj", "{7D77D97B-B31D-4594-8A7D-1E1F478A8591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D77D97B-B31D-4594-8A7D-1E1F478A8591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D77D97B-B31D-4594-8A7D-1E1F478A8591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D77D97B-B31D-4594-8A7D-1E1F478A8591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D77D97B-B31D-4594-8A7D-1E1F478A8591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6264EF9A-DD92-43F2-B3CE-149905ED9FEB}
+	EndGlobalSection
+EndGlobal
