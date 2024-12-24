@@ -3,8 +3,6 @@ Console.ReadLine();
 
 public class Solution
 {
-    public int Count = 1;
-
     public IList<IList<int>> Permute(int[] nums)
     {
         IList<IList<int>> permutations = [];
