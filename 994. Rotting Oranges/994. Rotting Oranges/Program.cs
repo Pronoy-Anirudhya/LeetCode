@@ -5,68 +5,54 @@ public class Solution
 {
     public int OrangesRotting(int[][] grid)
     {
-        int requiredMinutesToRotAllOranges = -1, totlaRows = grid.Length, totalColumns = grid[0].Length, totalFreshOranges = 0;
-        var bfsQueue = new Queue<(int rottenOrangeRow, int rottenOrangeColumn)>();
+        int timeRequired = -1, totalFreshOrange = 0;
+        Queue<(int row, int column)> bfs = [];
+        (int dx, int dy)[] directions = [(-1, 0), (1, 0), (0, -1), (0, 1)];
 
-        for (int row = 0; row < totlaRows; row++)
+        for (int row = 0; row < grid.Length; row++)
         {
-            for (int column = 0; column < totalColumns; column++)
+            for (int column = 0; column < grid[row].Length; column++)
             {
                 if (grid[row][column] == 1)
-                    totalFreshOranges++;
-
-                if (grid[row][column] == 2)
-                    bfsQueue.Enqueue((row, column));
+                    totalFreshOrange++;
+                else if (grid[row][column] == 2)
+                    bfs.Enqueue((row, column));
             }
         }
 
-        //There are no fresh oranges in the grid, so the required time is 0. No need to go further.
-        if (totalFreshOranges == 0)
+        //There's no fresh orange, so no point in continuing.
+        if (totalFreshOrange == 0)
             return 0;
 
-        while (bfsQueue.Count != 0)
+        while (bfs.Count > 0)
         {
-            requiredMinutesToRotAllOranges++;
-            int currentNumberOfRottenOranges = bfsQueue.Count;
+            int rottentOrangeCount = bfs.Count; //Each minute, all the rotten oranges will make their adjacent fresh oranges rotten. That's why we are getting the current rotten orange count and then iterate and enqueue all the their fresh oranges at once.
 
-            for (int rottenOrange = 0; rottenOrange < currentNumberOfRottenOranges; rottenOrange++)
+            for (int rottenOrange = 0; rottenOrange < rottentOrangeCount; rottenOrange++)
             {
-                var (rottenOrangeRow, rottenOrangeColumn) = bfsQueue.Dequeue();
+                (int row, int column) = bfs.Dequeue();
 
-                //Left
-                if (rottenOrangeColumn - 1 >= 0 && grid[rottenOrangeRow][rottenOrangeColumn - 1] == 1)
+                foreach (var direction in directions)
                 {
-                    grid[rottenOrangeRow][rottenOrangeColumn - 1] = 2;
-                    bfsQueue.Enqueue((rottenOrangeRow, rottenOrangeColumn - 1));
-                    totalFreshOranges--;
-                }
+                    (int nextRow, int nextColumn) = (row + direction.dx, column + direction.dy);
 
-                //Right
-                if (rottenOrangeColumn + 1 < totalColumns && grid[rottenOrangeRow][rottenOrangeColumn + 1] == 1)
-                {
-                    grid[rottenOrangeRow][rottenOrangeColumn + 1] = 2;
-                    bfsQueue.Enqueue((rottenOrangeRow, rottenOrangeColumn + 1));
-                    totalFreshOranges--;
-                }
+                    //Out of bound
+                    if (nextRow < 0 || nextRow >= grid.Length || nextColumn < 0 || nextColumn >= grid[0].Length)
+                        continue;
 
-                //Up
-                if (rottenOrangeRow - 1 >= 0 && grid[rottenOrangeRow - 1][rottenOrangeColumn] == 1)
-                {
-                    grid[rottenOrangeRow - 1][rottenOrangeColumn] = 2;
-                    bfsQueue.Enqueue((rottenOrangeRow - 1, rottenOrangeColumn));
-                    totalFreshOranges--;
-                }
+                    //Empty cell or Rotten Orange
+                    if (grid[nextRow][nextColumn] == 0 || grid[nextRow][nextColumn] == 2)
+                        continue;
 
-                //Bottom
-                if (rottenOrangeRow + 1 < totlaRows && grid[rottenOrangeRow + 1][rottenOrangeColumn] == 1)
-                {
-                    grid[rottenOrangeRow + 1][rottenOrangeColumn] = 2;
-                    bfsQueue.Enqueue((rottenOrangeRow + 1, rottenOrangeColumn));
-                    totalFreshOranges--;
+                    totalFreshOrange--;
+                    bfs.Enqueue((nextRow, nextColumn));
+                    grid[nextRow][nextColumn] = 0; //Making it emty so that it won't get picked up again by any other rotten oranges in the future
                 }
             }
+
+            timeRequired++;
         }
 
-        return totalFreshOranges == 0 ? requiredMinutesToRotAllOranges : -1;
+        return totalFreshOrange > 0 ? -1 : timeRequired;
     }
 }
