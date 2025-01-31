@@ -46,12 +46,12 @@ public class Solution
                     (int nextRow, int nextColumn) = (row + directions[index].dx, column + directions[index].dy);
 
                     //Out of bound
-                    if (nextRow < 0 || nextRow >= n || nextColumn < 0 || nextColumn >= grid[0].Length)
+                    if (IsOutOfBound(nextRow, nextColumn, n))
                         continue;
 
                     int nextIslandId = grid[nextRow][nextColumn];
 
-                    //This is to ensure we are notre-adding the same Islands length again since the ZERO could be surrounded by the same Island. In that case, we will only add if the surrounded Islands have distinc IDs. 
+                    //This is to ensure we are not re-adding the same Islands length again since the ZERO could be surrounded by the same Island. In that case, we will only add if the surrounded Islands have distinc IDs. 
                     if (visitedIslandIds.Contains(nextIslandId))
                         continue;
 
@@ -69,7 +69,7 @@ public class Solution
         return Math.Max(maxIslandByFlippingZero, maxIslandWithoutFlippingZero);
     }
 
-    private int BFSGetIslandLength(int[][] grid, (int dx, int dy)[] directions, int n, int row, int column, int islandId)
+    private static int BFSGetIslandLength(int[][] grid, (int dx, int dy)[] directions, int n, int row, int column, int islandId)
     {
         int islandLength = 1;
         Queue<(int row, int column)> bfs = [];
@@ -85,7 +85,7 @@ public class Solution
                 (int nextRow, int nextColumn) = (currentGrid.row + directions[index].dx, currentGrid.column + directions[index].dy);
 
                 //Out of bound
-                if (nextRow < 0 || nextRow >= n || nextColumn < 0 || nextColumn >= grid[0].Length)
+                if (IsOutOfBound(nextRow, nextColumn, n))
                     continue;
 
                 //Not part of an Island or has already been visited
@@ -99,5 +99,10 @@ public class Solution
         }
 
         return islandLength;
+    }
+
+    private static bool IsOutOfBound(int row, int column, int n)
+    {
+        return row < 0 || row >= n || column < 0 || column >= n;
     }
 }
