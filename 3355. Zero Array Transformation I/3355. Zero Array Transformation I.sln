@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3355. Zero Array Transformation I", "3355. Zero Array Transformation I\3355. Zero Array Transformation I.csproj", "{6697AA7B-C308-4435-A7F9-87AF918A8B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6697AA7B-C308-4435-A7F9-87AF918A8B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6697AA7B-C308-4435-A7F9-87AF918A8B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6697AA7B-C308-4435-A7F9-87AF918A8B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6697AA7B-C308-4435-A7F9-87AF918A8B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E96C3F6-CFBB-4E06-90B9-B63165F86C13}
+	EndGlobalSection
+EndGlobal
