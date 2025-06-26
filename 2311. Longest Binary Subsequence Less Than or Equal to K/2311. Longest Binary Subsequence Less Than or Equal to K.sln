@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2311. Longest Binary Subsequence Less Than or Equal to K", "2311. Longest Binary Subsequence Less Than or Equal to K\2311. Longest Binary Subsequence Less Than or Equal to K.csproj", "{F4CD209F-7A1E-47F4-B10D-9ACE2B81AEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CD209F-7A1E-47F4-B10D-9ACE2B81AEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CD209F-7A1E-47F4-B10D-9ACE2B81AEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CD209F-7A1E-47F4-B10D-9ACE2B81AEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CD209F-7A1E-47F4-B10D-9ACE2B81AEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {035FCA99-45E4-4BA4-A240-35CEA10500F6}
+	EndGlobalSection
+EndGlobal
