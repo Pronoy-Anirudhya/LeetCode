@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1437. Check If All 1's Are at Least Length K Places Away", "1437. Check If All 1's Are at Least Length K Places Away\1437. Check If All 1's Are at Least Length K Places Away.csproj", "{4EEC18DE-0756-4076-8903-812F44748BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EEC18DE-0756-4076-8903-812F44748BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEC18DE-0756-4076-8903-812F44748BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEC18DE-0756-4076-8903-812F44748BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEC18DE-0756-4076-8903-812F44748BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B618D9-877D-47DC-BB6D-2BE776CE471A}
+	EndGlobalSection
+EndGlobal
